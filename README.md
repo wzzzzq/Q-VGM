@@ -24,7 +24,7 @@ Code will be released soon.
 ```bibtex
 @article{wang2026qvgm,
   title={Q-VGM: Q-Value-Gradient Matching for Off-Policy Reinforcement Learning of Flow-Matching VLA},
-  author={Wang, Ziqian and Liu, Yitian and Mao, Xingjian and Wang, Minqian and Mu, Yao},
+  author={Wang, Ziqian and Qu, Chendi and Liu, Yitian and Mao, Xingjian and Wang, Minqian and Mu, Yao},
   journal={arXiv preprint arXiv:2606.08015},
   year={2026}
 }
